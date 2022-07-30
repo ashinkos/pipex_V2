@@ -1,0 +1,5 @@
+parent fork 
+		// child process 1 -> exit (1)
+		// parent fork 
+		// child precess 2 -> exit (1)
+		// parent waits for its childern
